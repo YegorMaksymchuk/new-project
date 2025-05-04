@@ -5,7 +5,7 @@
 git checkout -b <name-of-your-new-branch>
 ```
 
-#How to make commit
+# How to make commit
 
 ```sh
 git commit -m "<Task ID> #<commit message>"
